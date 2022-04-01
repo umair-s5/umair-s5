@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @umair-s5
-- 👀 I’m interested in data science and analysis.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on projects in JS or Python, as well as employment. :)
+- 👀 I like data science.
+- 🌱 I’m currently learning PySpark.
 - 📫 You can reach me at usayeed@drew.edu.
 
 <!---
